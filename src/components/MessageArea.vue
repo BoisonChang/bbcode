@@ -4,7 +4,7 @@
     <textarea v-model="input" @input="changeHandler"></textarea>
     <h2>HTML</h2><br>
     <p type="text" v-html="output"></p>｀
-</div>
+</div> 
 </template>
 
 
